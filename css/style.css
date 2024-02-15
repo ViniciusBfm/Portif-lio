@@ -346,8 +346,7 @@ html,body{
 }
 .ProjetosSingle{
 	width: 31%;
-	min-width: 420px;
-	height: 250px;
+	height: 230px;
 	margin: 1% 0;
 	border-radius: 8px;
 	-webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.52); 
@@ -644,6 +643,11 @@ footer h1{
     .hide{
         display: none;
     }
+	.ProjetosSingle{
+		width: 40%;
+		height: 230px;
+
+	}
 }
 @media screen and (max-width: 926px){
 	.skills-container{
@@ -652,8 +656,8 @@ footer h1{
 	}
 	.ProjetosSingle{
 		margin-right: 0px;
-		width: 80%;
-		height: 340px;
+		width: 90%;
+		height: 350px;
 		margin-bottom: 15px;
 
 	}
@@ -684,9 +688,8 @@ footer h1{
 		left: 76%;
 	}
 	.ProjetosSingle{
-		width: 80%;
-		height: 300px;
-
+		width: 90%;
+		height: 260px;
 	}
 	.skill-box{
 		width: 15%;
